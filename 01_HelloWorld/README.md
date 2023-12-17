@@ -2,6 +2,8 @@
 
 Create a simple Node.js application that display a messege 'Hello world' via web. 
 
+Node.js(`node`) launches a web service on port `3000` on address `127.0.0.1`. 
+
 ## 1. Create a JavaScript code 
 
 Open a Javascript file in the `01_HelloWorld` directory with the name `server.js`, and write the script below in it. 
